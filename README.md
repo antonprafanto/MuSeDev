@@ -1,2 +1,1 @@
-# MuSeDev
-MuSeDev is a tool that has a number of sensors for various everyday requirements, including Qibla direction, compass, GPS, altitude, air pressure, air humidity, air temperature, gyroscope, and accelerometer.
+MuSeDev is a tool that includes a variety of sensors for many daily needs, including a gyroscope, accelerometer, compass, GPS, object speed, altitude, air pressure, air humidity, air temperature, and sensors for ammonia gas and Qibla direction.
