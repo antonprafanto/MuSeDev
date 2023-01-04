@@ -11,7 +11,7 @@ A tool called MuSeDev comes with a variety of sensors for use in numerous daily 
 8. Air humidity (BME280)
 9. Air temperature (BME280)
 10. Light Intensity (BH1750)
-11.Gyroscope (MPU-6050)
+11. Gyroscope (MPU-6050)
 12. Accelerometer (MPU-6050)
 13. Heart Rate (Analog Sensor)
 14. Air quality (MQ-135)
