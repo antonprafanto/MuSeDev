@@ -15,8 +15,8 @@ A tool called MuSeDev comes with a variety of sensors for use in numerous daily 
 12. Accelerometer (MPU-6050)
 13. Heart Rate (Analog Sensor)
 14. Air quality (MQ-135)
-15. CO, NO2, C2H5CH, VOC (Grove - Multichannel Gas Sensor v2)
-16. Noise Level (Analog Sensor)
+15. <s>CO, NO2, C2H5CH, VOC (Grove - Multichannel Gas Sensor v2)</s>
+16. <s>Noise Level (Analog Sensor)</s>
 17. Measuring Distance *Maximum 2 Meters (VL53L0X)
 18. Object Surface Temperature (MLX90614)
 19. Dust Particles *Minimum Detection 0.8 Micron (GP2Y1010AU0F)
