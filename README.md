@@ -2,6 +2,7 @@
 
 A tool called MuSeDev comes with a variety of sensors for use in numerous daily activities, such as:
 
+0. Prayer Times (without the internet, change the prayer times)
 1. Qibla direction (HMC5883L)
 2. Compass (HMC5883L)
 3. GPS (Ublox Neo-6m)
